@@ -1,4 +1,4 @@
-## mobie-trial
+## mobile-trial
 # employee.py
 Simple python program that displays employee details including the name and basic salary
 
