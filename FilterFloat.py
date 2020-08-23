@@ -1,7 +1,4 @@
 
-# Python3 code to demonstrate working of 
-# Filter float strings from String list 
-# using regex + list comprehension 
 import re 
   
 # initialize list  
