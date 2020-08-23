@@ -16,4 +16,4 @@ emp1 = Employee("ABC", 2000);
 emp2 = Employee("XYZ", 5000);
 emp1.displayEmployee();
 emp2.displayEmployee();
-print "\nTotal Employee: ",Employee.empCount;
+print ("\nTotal Employee: "+Employee.empCount);
